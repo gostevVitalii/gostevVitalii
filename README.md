@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @gostevVitalii
+- 👋 Hi, I’m Vitalii
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning HTML, CSS, JS, React
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
 
 <!---
 gostevVitalii/gostevVitalii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
